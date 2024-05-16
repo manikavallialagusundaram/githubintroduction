@@ -1,2 +1,3 @@
-let message = welcome Meenu;
+let name = meenu;
+let message = welcome ${'meenu'};
 console.log(message);

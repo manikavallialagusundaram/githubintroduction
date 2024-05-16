@@ -1,1 +1,2 @@
-console.log("hello meenu");
+let message = welcome Meenu;
+console.log(message);
